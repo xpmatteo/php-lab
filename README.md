@@ -9,3 +9,5 @@ In another terminal tab, execute
     echo 'three plus four is <?= 3 + 4 ?>' > html/index.php
 
 and then open `http://localhost:8080/`
+
+Want to try a kata?  Open `http://localhost:8080/fizz-buzz-test.php` and then edit `fizz-buzz.php`
